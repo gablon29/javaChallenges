@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T09:49:35.099Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Y7sQtbWG3Mi8ffDEOAhi" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-26T09:55:38.645Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="7Yb-lZiD0Ibl9zRtnlNs" version="22.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1193" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,6 +58,9 @@
               <mxPoint x="214" y="510" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RqBvqXlwZ0SboRtsZ3vq-23" value="Se describen las relaciones / herencias" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="490" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
